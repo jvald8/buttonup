@@ -1,0 +1,28 @@
+{
+  "name": "checkinapp",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jvald8/buttonup",
+  "authors": [
+    "Nick Peters"
+  ],
+  "description": "checkin app for families",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "checkin",
+    "app"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-social": "~4.9.0"
+  }
+}
